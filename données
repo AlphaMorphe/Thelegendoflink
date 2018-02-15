@@ -1,0 +1,11 @@
+#include <stdio.h>
+#define TAILLE_X
+#define TAILLE_Y
+int t[TAILLE_X][TAILLE_Y];
+0 rien
+1 mur
+2 monstre
+void affichage(int t[TAILLE_X][TAILLE_Y]);
+void monstre(int t[TAILLE_X][TAILLE_Y],int x,int y);
+rand/srand
+sleep
