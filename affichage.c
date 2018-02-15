@@ -22,7 +22,7 @@ void affichage(int t[TAILLE_X][TAILLE_Y]){
 					printf("%c",'#'); //mur
 					break;
 				case 2:
-					printf("%c",'¤'); //monstre
+					printf("%c",); //monstre
 					break;
 				default:
 					printf(" "); //vide
